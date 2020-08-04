@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/dog_0</item>
+        <item>@drawable/dog_1</item>
+        <item>@drawable/dog_2</item>
+        <item>@drawable/dog_3</item>
+        <item>@drawable/dog_4</item>
+
+    </array>
+
+    <array name="icons1">
+        <item>@drawable/dog_0</item>
+        <item>@drawable/dog_1</item>
+        <item>@drawable/dog_2</item>
+        <item>@drawable/dog_3</item>
+        <item>@drawable/dog_4</item>
+
+    </array>
+    <array name="icons2">
+        <item>@drawable/dog_0</item>
+        <item>@drawable/dog_1</item>
+        <item>@drawable/dog_2</item>
+        <item>@drawable/dog_3</item>
+        <item>@drawable/dog_4</item>
+
+    </array>
+</resources>

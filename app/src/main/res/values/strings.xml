@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobileCW01</string>
+    <string name="identify_the_breed">Identify the Breed</string>
+    <string name="identify_the_dog">Identify the Dog</string>
+    <string name="search_dog_breeds">Search Dog Breeds</string>
+    <string name="image_of_main_background">image of main background</string>
+    <string name="submit">Submit</string>
+    <string name="enter_dog_breed">Enter dog breed</string>
+    <string name="search">Search</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="breedNames">
+
+        <item>Choose The Breed</item>
+        <item>Bull Mastiff</item>
+        <item>Chow Chow</item>
+        <item>Golden Retriever</item>
+        <item>Great Dane</item>
+        <item>Kerry Blue terrier</item>
+        <item>Pomeranian</item>
+        <item>Rottweiler</item>
+        <item>Saint Bernard</item>
+        <item>Siberian Husky</item>
+        <item>Tibetan Mastiff</item>
+
+    </string-array>
+
+
+</resources>
